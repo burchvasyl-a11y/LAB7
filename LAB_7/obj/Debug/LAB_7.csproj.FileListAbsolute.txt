@@ -1,0 +1,7 @@
+C:\Users\Студент\source\repos\LAB_7\bin\Debug\LAB_7.exe.config
+C:\Users\Студент\source\repos\LAB_7\bin\Debug\LAB_7.exe
+C:\Users\Студент\source\repos\LAB_7\bin\Debug\LAB_7.pdb
+C:\Users\Студент\source\repos\LAB_7\obj\Debug\LAB_7.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\LAB_7\obj\Debug\LAB_7.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\LAB_7\obj\Debug\LAB_7.exe
+C:\Users\Студент\source\repos\LAB_7\obj\Debug\LAB_7.pdb
