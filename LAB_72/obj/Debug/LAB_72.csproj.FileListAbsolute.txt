@@ -1,0 +1,7 @@
+C:\Users\Студент\source\repos\LAB_72\bin\Debug\LAB_72.exe.config
+C:\Users\Студент\source\repos\LAB_72\bin\Debug\LAB_72.exe
+C:\Users\Студент\source\repos\LAB_72\bin\Debug\LAB_72.pdb
+C:\Users\Студент\source\repos\LAB_72\obj\Debug\LAB_72.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\LAB_72\obj\Debug\LAB_72.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\LAB_72\obj\Debug\LAB_72.exe
+C:\Users\Студент\source\repos\LAB_72\obj\Debug\LAB_72.pdb
